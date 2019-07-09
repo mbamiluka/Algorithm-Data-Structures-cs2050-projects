@@ -1,0 +1,49 @@
+Running Test: 1a
+
+Student id: 900940940
+First Name: Mbami
+Last Name: Luka
+Email: mluka@msudenver.edu
+
+Running Test: 1b
+ Student id: 1
+ Grade Item Id: 900940940
+ Course Id: MTH2040
+ Item Type: HW
+ Date: 20190112
+ Maximum score: 100
+ Actual score: 95
+
+*********************************************************
+
+Running Test: 2a
+Student id: 900123456
+First Name: Ryan
+Last Name: Lejeal
+Email: rlejeal@msudenver.edu
+
+Running Test: 2b
+ Student id: 23
+ Grade Item Id: 900666456
+ Course Id: CS3250
+ Item Type: Test
+ Date: 20190112
+ Maximum score: 100
+ Actual score: 95
+
+*********************************************************
+
+Running Test: 3a
+Student objects are unequal: 
+Student IDs are 900940940 and 900123456
+
+Student objects are equal: 
+Student IDs are 900123456
+
+Running Test: 3b
+Grade Item objects are unequal: 
+Student IDs are 1 and 23
+
+Grade Item objects are equal: 
+Student IDs are 23
+
